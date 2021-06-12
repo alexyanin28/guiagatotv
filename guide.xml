@@ -1,0 +1,1262 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="AXN">
+    <display-name lang="es">AXN</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="WARNER">
+    <display-name lang="es">WARNER</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="CINECANAL">
+    <display-name lang="es">CINECANAL</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="CINEMAX">
+    <display-name lang="es">CINEMAX</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="DISCOVERY CHANNEL">
+    <display-name lang="es">DISCOVERY CHANNEL</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="DISCOVERY KIDS">
+    <display-name lang="es">DISCOVERY KIDS</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="DISCOVERY SCIENCE">
+    <display-name lang="es">DISCOVERY SCIENCE</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="DISCOVERY THEATER">
+    <display-name lang="es">DISCOVERY THEATER</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="DISCOVERY TURBO">
+    <display-name lang="es">DISCOVERY TURBO</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="STAR CHANNEL">
+    <display-name lang="es">STAR CHANNEL</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="STAR ACTION">
+    <display-name lang="es">STAR ACTION</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="GOLDEN">
+    <display-name lang="es">GOLDEN</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="GOLDEN EDGE">
+    <display-name lang="es">GOLDEN EDGE</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="HBO">
+    <display-name lang="es">HBO</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="HBO 2">
+    <display-name lang="es">HBO 2</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="HBO PLUS">
+    <display-name lang="es">HBO PLUS</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="MTV">
+    <display-name lang="es">MTV</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="SPACE">
+    <display-name lang="es">SPACE</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="TLC">
+    <display-name lang="es">TLC</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="TNT">
+    <display-name lang="es">TNT</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <programme start="20210611002000 -0700" stop="20210611011000 -0700" channel="AXN">
+    <title lang="es">NCIS: Los Ángeles</title>
+  </programme>
+  <programme start="20210611011000 -0700" stop="20210611020000 -0700" channel="AXN">
+    <title lang="es">NCIS: Los Ángeles</title>
+  </programme>
+  <programme start="20210611020000 -0700" stop="20210611030000 -0700" channel="AXN">
+    <title lang="es">NCIS: Los Ángeles</title>
+  </programme>
+  <programme start="20210611030000 -0700" stop="20210611040000 -0700" channel="AXN">
+    <title lang="es">NCIS: Los Ángeles</title>
+  </programme>
+  <programme start="20210611040000 -0700" stop="20210611050000 -0700" channel="AXN">
+    <title lang="es">NCIS: Los Ángeles</title>
+  </programme>
+  <programme start="20210611050000 -0700" stop="20210611060000 -0700" channel="AXN">
+    <title lang="es">NCIS: Los Ángeles</title>
+  </programme>
+  <programme start="20210611060000 -0700" stop="20210611070000 -0700" channel="AXN">
+    <title lang="es">NCIS: Los Ángeles</title>
+  </programme>
+  <programme start="20210611070000 -0700" stop="20210611080000 -0700" channel="AXN">
+    <title lang="es">NCIS NAVY</title>
+  </programme>
+  <programme start="20210611080000 -0700" stop="20210611085000 -0700" channel="AXN">
+    <title lang="es">NCIS: Los Ángeles</title>
+  </programme>
+  <programme start="20210611085000 -0700" stop="20210611094000 -0700" channel="AXN">
+    <title lang="es">NCIS: New Orleans</title>
+  </programme>
+  <programme start="20210611094000 -0700" stop="20210611103000 -0700" channel="AXN">
+    <title lang="es">Criminal Minds</title>
+  </programme>
+  <programme start="20210611103000 -0700" stop="20210611112000 -0700" channel="AXN">
+    <title lang="es">Criminal Minds</title>
+  </programme>
+  <programme start="20210611112000 -0700" stop="20210611121000 -0700" channel="AXN">
+    <title lang="es">C.S.I. N.Y</title>
+  </programme>
+  <programme start="20210611121000 -0700" stop="20210611130000 -0700" channel="AXN">
+    <title lang="es">C.S.I</title>
+  </programme>
+  <programme start="20210611130000 -0700" stop="20210611135000 -0700" channel="AXN">
+    <title lang="es">C.S.I. Miami</title>
+  </programme>
+  <programme start="20210611135000 -0700" stop="20210611144000 -0700" channel="AXN">
+    <title lang="es">C.S.I. Miami</title>
+  </programme>
+  <programme start="20210611144000 -0700" stop="20210611153000 -0700" channel="AXN">
+    <title lang="es">Hawaii Five-0</title>
+  </programme>
+  <programme start="20210611153000 -0700" stop="20210611162000 -0700" channel="AXN">
+    <title lang="es">Hawaii Five-0</title>
+  </programme>
+  <programme start="20210611162000 -0700" stop="20210611171000 -0700" channel="AXN">
+    <title lang="es">Criminal Minds</title>
+  </programme>
+  <programme start="20210611171000 -0700" stop="20210611180500 -0700" channel="AXN">
+    <title lang="es">Criminal Minds</title>
+  </programme>
+  <programme start="20210611180500 -0700" stop="20210611190000 -0700" channel="AXN">
+    <title lang="es">C.S.I. Miami</title>
+  </programme>
+  <programme start="20210611190000 -0700" stop="20210611195500 -0700" channel="AXN">
+    <title lang="es">C.S.I. Miami</title>
+  </programme>
+  <programme start="20210611195500 -0700" stop="20210611205000 -0700" channel="AXN">
+    <title lang="es">Maratón C.S.I</title>
+  </programme>
+  <programme start="20210611205000 -0700" stop="20210611214500 -0700" channel="AXN">
+    <title lang="es">Maratón C.S.I</title>
+  </programme>
+  <programme start="20210611214500 -0700" stop="20210611224000 -0700" channel="AXN">
+    <title lang="es">Hawaii Five-0</title>
+  </programme>
+  <programme start="20210611224000 -0700" stop="20210611233000 -0700" channel="AXN">
+    <title lang="es">Hawaii Five-0</title>
+  </programme>
+  <programme start="20210611233000 -0700" stop="20210612002000 -0700" channel="AXN">
+    <title lang="es">C.S.I. Miami</title>
+  </programme>
+  <programme start="20210611004100 -0700" stop="20210611010300 -0700" channel="WARNER">
+    <title lang="es">Dragon Ball Z Kai</title>
+  </programme>
+  <programme start="20210611010300 -0700" stop="20210611012700 -0700" channel="WARNER">
+    <title lang="es">Dragon Ball Z Kai</title>
+  </programme>
+  <programme start="20210611012700 -0700" stop="20210611014700 -0700" channel="WARNER">
+    <title lang="es">The Big Bang Theory</title>
+  </programme>
+  <programme start="20210611014700 -0700" stop="20210611020800 -0700" channel="WARNER">
+    <title lang="es">The Big Bang Theory</title>
+  </programme>
+  <programme start="20210611020800 -0700" stop="20210611023100 -0700" channel="WARNER">
+    <title lang="es">The Big Bang Theory</title>
+  </programme>
+  <programme start="20210611023100 -0700" stop="20210611025200 -0700" channel="WARNER">
+    <title lang="es">Superstore</title>
+  </programme>
+  <programme start="20210611025200 -0700" stop="20210611031600 -0700" channel="WARNER">
+    <title lang="es">Superstore</title>
+  </programme>
+  <programme start="20210611031600 -0700" stop="20210611040000 -0700" channel="WARNER">
+    <title lang="es">Arrow</title>
+  </programme>
+  <programme start="20210611040000 -0700" stop="20210611053400 -0700" channel="WARNER">
+    <title lang="es">Superstore</title>
+  </programme>
+  <programme start="20210611053400 -0700" stop="20210611055700 -0700" channel="WARNER">
+    <title lang="es">Friends</title>
+  </programme>
+  <programme start="20210611055700 -0700" stop="20210611061800 -0700" channel="WARNER">
+    <title lang="es">The Big Bang Theory</title>
+  </programme>
+  <programme start="20210611061800 -0700" stop="20210611063900 -0700" channel="WARNER">
+    <title lang="es">The Big Bang Theory</title>
+  </programme>
+  <programme start="20210611063900 -0700" stop="20210611070200 -0700" channel="WARNER">
+    <title lang="es">The Big Bang Theory</title>
+  </programme>
+  <programme start="20210611070200 -0700" stop="20210611072500 -0700" channel="WARNER">
+    <title lang="es">The Big Bang Theory</title>
+  </programme>
+  <programme start="20210611072500 -0700" stop="20210611081200 -0700" channel="WARNER">
+    <title lang="es">Dragon Ball Z Kai</title>
+  </programme>
+  <programme start="20210611081200 -0700" stop="20210611083500 -0700" channel="WARNER">
+    <title lang="es">Friends</title>
+  </programme>
+  <programme start="20210611083500 -0700" stop="20210611085900 -0700" channel="WARNER">
+    <title lang="es">Friends</title>
+  </programme>
+  <programme start="20210611085900 -0700" stop="20210611092300 -0700" channel="WARNER">
+    <title lang="es">Friends</title>
+  </programme>
+  <programme start="20210611092300 -0700" stop="20210611094300 -0700" channel="WARNER">
+    <title lang="es">The Big Bang Theory</title>
+  </programme>
+  <programme start="20210611094300 -0700" stop="20210611100400 -0700" channel="WARNER">
+    <title lang="es">The Big Bang Theory</title>
+  </programme>
+  <programme start="20210611100400 -0700" stop="20210611103000 -0700" channel="WARNER">
+    <title lang="es">The Big Bang Theory</title>
+  </programme>
+  <programme start="20210611103000 -0700" stop="20210611105400 -0700" channel="WARNER">
+    <title lang="es">The Big Bang Theory</title>
+  </programme>
+  <programme start="20210611105400 -0700" stop="20210611123300 -0700" channel="WARNER">
+    <title lang="es">Ghost rider</title>
+  </programme>
+  <programme start="20210611123300 -0700" stop="20210611143400 -0700" channel="WARNER">
+    <title lang="es">Jack El Cazagigantes</title>
+  </programme>
+  <programme start="20210611143400 -0700" stop="20210611152800 -0700" channel="WARNER">
+    <title lang="es">Rescue me</title>
+  </programme>
+  <programme start="20210611152800 -0700" stop="20210611173000 -0700" channel="WARNER">
+    <title lang="es">¡sí señor</title>
+  </programme>
+  <programme start="20210611173000 -0700" stop="20210611200000 -0700" channel="WARNER">
+    <title lang="es">Sherlock Holmes juego de</title>
+  </programme>
+  <programme start="20210611200000 -0700" stop="20210611222000 -0700" channel="WARNER">
+    <title lang="es">Godzilla</title>
+  </programme>
+  <programme start="20210611222000 -0700" stop="20210612003300 -0700" channel="WARNER">
+    <title lang="es">Animales fantásticos y</title>
+  </programme>
+  <programme start="20210611002900 -0700" stop="20210611023800 -0700" channel="CINECANAL">
+    <title lang="es">Star Trek: En la Oscuridad</title>
+  </programme>
+  <programme start="20210611023800 -0700" stop="20210611041900 -0700" channel="CINECANAL">
+    <title lang="es">Run the Race</title>
+  </programme>
+  <programme start="20210611041900 -0700" stop="20210611061600 -0700" channel="CINECANAL">
+    <title lang="es">Programación Especial</title>
+  </programme>
+  <programme start="20210611061600 -0700" stop="20210611074600 -0700" channel="CINECANAL">
+    <title lang="es">Muerte en el camino</title>
+  </programme>
+  <programme start="20210611074600 -0700" stop="20210611092200 -0700" channel="CINECANAL">
+    <title lang="es">Una casa patas arriba</title>
+  </programme>
+  <programme start="20210611092200 -0700" stop="20210611105900 -0700" channel="CINECANAL">
+    <title lang="es">Emoji: La Película</title>
+  </programme>
+  <programme start="20210611105900 -0700" stop="20210611123400 -0700" channel="CINECANAL">
+    <title lang="es">Stuart Little</title>
+  </programme>
+  <programme start="20210611123400 -0700" stop="20210611141700 -0700" channel="CINECANAL">
+    <title lang="es">Jugando con fuego</title>
+  </programme>
+  <programme start="20210611141700 -0700" stop="20210611162200 -0700" channel="CINECANAL">
+    <title lang="es">27 Bodas</title>
+  </programme>
+  <programme start="20210611162200 -0700" stop="20210611180000 -0700" channel="CINECANAL">
+    <title lang="es">Minions</title>
+  </programme>
+  <programme start="20210611180000 -0700" stop="20210611200000 -0700" channel="CINECANAL">
+    <title lang="es">Princesa por Accidente</title>
+  </programme>
+  <programme start="20210611200000 -0700" stop="20210611213500 -0700" channel="CINECANAL">
+    <title lang="es">Vida secreta de tus mascotas</title>
+  </programme>
+  <programme start="20210611213500 -0700" stop="20210612002000 -0700" channel="CINECANAL">
+    <title lang="es">El Planeta de los Simios</title>
+  </programme>
+  <programme start="20210611010500 -0700" stop="20210611023300 -0700" channel="CINEMAX">
+    <title lang="es">Corre Lola corre</title>
+  </programme>
+  <programme start="20210611023300 -0700" stop="20210611040000 -0700" channel="CINEMAX">
+    <title lang="es">El Maestro Perfecto</title>
+  </programme>
+  <programme start="20210611040000 -0700" stop="20210611064400 -0700" channel="CINEMAX">
+    <title lang="es">La última pelea</title>
+  </programme>
+  <programme start="20210611064400 -0700" stop="20210611090900 -0700" channel="CINEMAX">
+    <title lang="es">Atracción peligrosa</title>
+  </programme>
+  <programme start="20210611090900 -0700" stop="20210611115500 -0700" channel="CINEMAX">
+    <title lang="es">El Robo Perfecto</title>
+  </programme>
+  <programme start="20210611115500 -0700" stop="20210611141900 -0700" channel="CINEMAX">
+    <title lang="es">Los indestructibles 3</title>
+  </programme>
+  <programme start="20210611141900 -0700" stop="20210611163400 -0700" channel="CINEMAX">
+    <title lang="es">El implacable</title>
+  </programme>
+  <programme start="20210611163400 -0700" stop="20210611190000 -0700" channel="CINEMAX">
+    <title lang="es">Atracción peligrosa</title>
+  </programme>
+  <programme start="20210611190000 -0700" stop="20210611211600 -0700" channel="CINEMAX">
+    <title lang="es">Argo</title>
+  </programme>
+  <programme start="20210611211600 -0700" stop="20210611233500 -0700" channel="CINEMAX">
+    <title lang="es">Soldado anónimo</title>
+  </programme>
+  <programme start="20210611233500 -0700" stop="20210612020500 -0700" channel="CINEMAX">
+    <title lang="es">La vida de David Gale</title>
+  </programme>
+  <programme start="20210611001700 -0700" stop="20210611010800 -0700" channel="DISCOVERY CHANNEL">
+    <title lang="es">Supervivencia Salvaje</title>
+  </programme>
+  <programme start="20210611010800 -0700" stop="20210611015800 -0700" channel="DISCOVERY CHANNEL">
+    <title lang="es">Supervivencia al desnudo</title>
+  </programme>
+  <programme start="20210611015800 -0700" stop="20210611033700 -0700" channel="DISCOVERY CHANNEL">
+    <title lang="es">Supervivencia al desnudo</title>
+  </programme>
+  <programme start="20210611033700 -0700" stop="20210611040000 -0700" channel="DISCOVERY CHANNEL">
+    <title lang="es">Tesoros del garaje</title>
+  </programme>
+  <programme start="20210611040000 -0700" stop="20210611045200 -0700" channel="DISCOVERY CHANNEL">
+    <title lang="es">Oro bajo cero</title>
+  </programme>
+  <programme start="20210611045200 -0700" stop="20210611054400 -0700" channel="DISCOVERY CHANNEL">
+    <title lang="es">Pesca mortal</title>
+  </programme>
+  <programme start="20210611054400 -0700" stop="20210611063600 -0700" channel="DISCOVERY CHANNEL">
+    <title lang="es">Battlebots</title>
+  </programme>
+  <programme start="20210611063600 -0700" stop="20210611073000 -0700" channel="DISCOVERY CHANNEL">
+    <title lang="es">Europa salvaje</title>
+  </programme>
+  <programme start="20210611073000 -0700" stop="20210611082300 -0700" channel="DISCOVERY CHANNEL">
+    <title lang="es">Ríos majestuosos con Jeremy W</title>
+  </programme>
+  <programme start="20210611082300 -0700" stop="20210611091600 -0700" channel="DISCOVERY CHANNEL">
+    <title lang="es">Desafío X 2</title>
+  </programme>
+  <programme start="20210611091600 -0700" stop="20210611100900 -0700" channel="DISCOVERY CHANNEL">
+    <title lang="es">Desafío X 2</title>
+  </programme>
+  <programme start="20210611100900 -0700" stop="20210611110200 -0700" channel="DISCOVERY CHANNEL">
+    <title lang="es">Sala de emergencias Historia</title>
+  </programme>
+  <programme start="20210611110200 -0700" stop="20210611115500 -0700" channel="DISCOVERY CHANNEL">
+    <title lang="es">Sala de emergencias Historia</title>
+  </programme>
+  <programme start="20210611115500 -0700" stop="20210611124800 -0700" channel="DISCOVERY CHANNEL">
+    <title lang="es">Alaska Hombres primitivo</title>
+  </programme>
+  <programme start="20210611124800 -0700" stop="20210611134100 -0700" channel="DISCOVERY CHANNEL">
+    <title lang="es">Desolado con Ed Stafford</title>
+  </programme>
+  <programme start="20210611134100 -0700" stop="20210611143400 -0700" channel="DISCOVERY CHANNEL">
+    <title lang="es">Mexicánicos</title>
+  </programme>
+  <programme start="20210611143400 -0700" stop="20210611152700 -0700" channel="DISCOVERY CHANNEL">
+    <title lang="es">Planeta Tierra II</title>
+  </programme>
+  <programme start="20210611152700 -0700" stop="20210611162000 -0700" channel="DISCOVERY CHANNEL">
+    <title lang="es">Monstruos de río</title>
+  </programme>
+  <programme start="20210611162000 -0700" stop="20210611171300 -0700" channel="DISCOVERY CHANNEL">
+    <title lang="es">Supervivencia al desnudo</title>
+  </programme>
+  <programme start="20210611171300 -0700" stop="20210611180700 -0700" channel="DISCOVERY CHANNEL">
+    <title lang="es">Supervivencia al desnudo</title>
+  </programme>
+  <programme start="20210611180700 -0700" stop="20210611190000 -0700" channel="DISCOVERY CHANNEL">
+    <title lang="es">Mexicánicos</title>
+  </programme>
+  <programme start="20210611190000 -0700" stop="20210611204800 -0700" channel="DISCOVERY CHANNEL">
+    <title lang="es">Kilos mortales</title>
+  </programme>
+  <programme start="20210611204800 -0700" stop="20210611214200 -0700" channel="DISCOVERY CHANNEL">
+    <title lang="es">Los millones de Escobar</title>
+  </programme>
+  <programme start="20210611214200 -0700" stop="20210611223400 -0700" channel="DISCOVERY CHANNEL">
+    <title lang="es">Los millones de Escobar</title>
+  </programme>
+  <programme start="20210611223400 -0700" stop="20210611232600 -0700" channel="DISCOVERY CHANNEL">
+    <title lang="es">Los millones de Escobar</title>
+  </programme>
+  <programme start="20210611232600 -0700" stop="20210612001700 -0700" channel="DISCOVERY CHANNEL">
+    <title lang="es">Parásitos asesinos</title>
+  </programme>
+  <programme start="20210611000400 -0700" stop="20210611002800 -0700" channel="DISCOVERY KIDS">
+    <title lang="es">Las aventuras del Gato con Bo</title>
+  </programme>
+  <programme start="20210611002800 -0700" stop="20210611005200 -0700" channel="DISCOVERY KIDS">
+    <title lang="es">Aventuras con los Kratt</title>
+  </programme>
+  <programme start="20210611005200 -0700" stop="20210611011400 -0700" channel="DISCOVERY KIDS">
+    <title lang="es">Las aventuras del Gato con Bo</title>
+  </programme>
+  <programme start="20210611011400 -0700" stop="20210611013800 -0700" channel="DISCOVERY KIDS">
+    <title lang="es">Viva el rey Julien, en el exi</title>
+  </programme>
+  <programme start="20210611013800 -0700" stop="20210611020200 -0700" channel="DISCOVERY KIDS">
+    <title lang="es">Hi-5</title>
+  </programme>
+  <programme start="20210611020200 -0700" stop="20210611022600 -0700" channel="DISCOVERY KIDS">
+    <title lang="es">Viva el rey Julien, en el exi</title>
+  </programme>
+  <programme start="20210611022600 -0700" stop="20210611025000 -0700" channel="DISCOVERY KIDS">
+    <title lang="es">Aventuras con los Kratt</title>
+  </programme>
+  <programme start="20210611025000 -0700" stop="20210611031200 -0700" channel="DISCOVERY KIDS">
+    <title lang="es">Zak Storm</title>
+  </programme>
+  <programme start="20210611031200 -0700" stop="20210611033600 -0700" channel="DISCOVERY KIDS">
+    <title lang="es">Zak Storm</title>
+  </programme>
+  <programme start="20210611033600 -0700" stop="20210611040000 -0700" channel="DISCOVERY KIDS">
+    <title lang="es">Miss Moon</title>
+  </programme>
+  <programme start="20210611040000 -0700" stop="20210611051200 -0700" channel="DISCOVERY KIDS">
+    <title lang="es">Peppa</title>
+  </programme>
+  <programme start="20210611051200 -0700" stop="20210611052700 -0700" channel="DISCOVERY KIDS">
+    <title lang="es">Ricky Zoom</title>
+  </programme>
+  <programme start="20210611052700 -0700" stop="20210611055300 -0700" channel="DISCOVERY KIDS">
+    <title lang="es">Peppa</title>
+  </programme>
+  <programme start="20210611055300 -0700" stop="20210611063500 -0700" channel="DISCOVERY KIDS">
+    <title lang="es">Jorge, el curioso</title>
+  </programme>
+  <programme start="20210611063500 -0700" stop="20210611065000 -0700" channel="DISCOVERY KIDS">
+    <title lang="es">44 Gatos</title>
+  </programme>
+  <programme start="20210611065000 -0700" stop="20210611071300 -0700" channel="DISCOVERY KIDS">
+    <title lang="es">Peppa</title>
+  </programme>
+  <programme start="20210611071300 -0700" stop="20210611074000 -0700" channel="DISCOVERY KIDS">
+    <title lang="es">Peppa</title>
+  </programme>
+  <programme start="20210611074000 -0700" stop="20210611080600 -0700" channel="DISCOVERY KIDS">
+    <title lang="es">Peppa</title>
+  </programme>
+  <programme start="20210611080600 -0700" stop="20210611084300 -0700" channel="DISCOVERY KIDS">
+    <title lang="es">¡Agente Binky al rescate</title>
+  </programme>
+  <programme start="20210611084300 -0700" stop="20210611091000 -0700" channel="DISCOVERY KIDS">
+    <title lang="es">Supermonstruos</title>
+  </programme>
+  <programme start="20210611091000 -0700" stop="20210611093800 -0700" channel="DISCOVERY KIDS">
+    <title lang="es">Supermonstruos</title>
+  </programme>
+  <programme start="20210611093800 -0700" stop="20210611100500 -0700" channel="DISCOVERY KIDS">
+    <title lang="es">Supermonstruos</title>
+  </programme>
+  <programme start="20210611100500 -0700" stop="20210611104200 -0700" channel="DISCOVERY KIDS">
+    <title lang="es">Mi perro Pat</title>
+  </programme>
+  <programme start="20210611104200 -0700" stop="20210611114500 -0700" channel="DISCOVERY KIDS">
+    <title lang="es">44 Gatos</title>
+  </programme>
+  <programme start="20210611114500 -0700" stop="20210611120700 -0700" channel="DISCOVERY KIDS">
+    <title lang="es">¡Agente Binky al rescate</title>
+  </programme>
+  <programme start="20210611120700 -0700" stop="20210611122200 -0700" channel="DISCOVERY KIDS">
+    <title lang="es">¡Agente Binky al rescate</title>
+  </programme>
+  <programme start="20210611122200 -0700" stop="20210611124700 -0700" channel="DISCOVERY KIDS">
+    <title lang="es">Jorge, el curioso</title>
+  </programme>
+  <programme start="20210611124700 -0700" stop="20210611130900 -0700" channel="DISCOVERY KIDS">
+    <title lang="es">Jorge, el curioso</title>
+  </programme>
+  <programme start="20210611130900 -0700" stop="20210611133400 -0700" channel="DISCOVERY KIDS">
+    <title lang="es">Jorge, el curioso</title>
+  </programme>
+  <programme start="20210611133400 -0700" stop="20210611140100 -0700" channel="DISCOVERY KIDS">
+    <title lang="es">Peppa</title>
+  </programme>
+  <programme start="20210611140100 -0700" stop="20210611142700 -0700" channel="DISCOVERY KIDS">
+    <title lang="es">Peppa</title>
+  </programme>
+  <programme start="20210611142700 -0700" stop="20210611145300 -0700" channel="DISCOVERY KIDS">
+    <title lang="es">Peppa</title>
+  </programme>
+  <programme start="20210611145300 -0700" stop="20210611153000 -0700" channel="DISCOVERY KIDS">
+    <title lang="es">Peppa</title>
+  </programme>
+  <programme start="20210611153000 -0700" stop="20210611160900 -0700" channel="DISCOVERY KIDS">
+    <title lang="es">Supermonstruos</title>
+  </programme>
+  <programme start="20210611160900 -0700" stop="20210611164600 -0700" channel="DISCOVERY KIDS">
+    <title lang="es">Jorge, el curioso</title>
+  </programme>
+  <programme start="20210611164600 -0700" stop="20210611171300 -0700" channel="DISCOVERY KIDS">
+    <title lang="es">44 Gatos</title>
+  </programme>
+  <programme start="20210611171300 -0700" stop="20210611175600 -0700" channel="DISCOVERY KIDS">
+    <title lang="es">Jorge, el curioso</title>
+  </programme>
+  <programme start="20210611175600 -0700" stop="20210611184400 -0700" channel="DISCOVERY KIDS">
+    <title lang="es">Jorge, el curioso</title>
+  </programme>
+  <programme start="20210611184400 -0700" stop="20210611194400 -0700" channel="DISCOVERY KIDS">
+    <title lang="es">¡Agente Binky al rescate</title>
+  </programme>
+  <programme start="20210611194400 -0700" stop="20210611200700 -0700" channel="DISCOVERY KIDS">
+    <title lang="es">44 Gatos</title>
+  </programme>
+  <programme start="20210611200700 -0700" stop="20210611210900 -0700" channel="DISCOVERY KIDS">
+    <title lang="es">Polly Pocket</title>
+  </programme>
+  <programme start="20210611210900 -0700" stop="20210611213400 -0700" channel="DISCOVERY KIDS">
+    <title lang="es">Jorge, el curioso</title>
+  </programme>
+  <programme start="20210611213400 -0700" stop="20210611220000 -0700" channel="DISCOVERY KIDS">
+    <title lang="es">Jorge, el curioso</title>
+  </programme>
+  <programme start="20210611220000 -0700" stop="20210611222500 -0700" channel="DISCOVERY KIDS">
+    <title lang="es">Miss Moon</title>
+  </programme>
+  <programme start="20210611222500 -0700" stop="20210611225000 -0700" channel="DISCOVERY KIDS">
+    <title lang="es">Viva el rey Julien, en el exi</title>
+  </programme>
+  <programme start="20210611225000 -0700" stop="20210611231500 -0700" channel="DISCOVERY KIDS">
+    <title lang="es">Hi-5</title>
+  </programme>
+  <programme start="20210611231500 -0700" stop="20210611234000 -0700" channel="DISCOVERY KIDS">
+    <title lang="es">Las aventuras del Gato con Bo</title>
+  </programme>
+  <programme start="20210611234000 -0700" stop="20210612000400 -0700" channel="DISCOVERY KIDS">
+    <title lang="es">Aventuras con los Kratt</title>
+  </programme>
+  <programme start="20210611004800 -0700" stop="20210611013600 -0700" channel="DISCOVERY SCIENCE">
+    <title lang="es">Savage Builds</title>
+  </programme>
+  <programme start="20210611013600 -0700" stop="20210611022400 -0700" channel="DISCOVERY SCIENCE">
+    <title lang="es">Outrageous Acts of Science</title>
+  </programme>
+  <programme start="20210611022400 -0700" stop="20210611031200 -0700" channel="DISCOVERY SCIENCE">
+    <title lang="es">Tesoro en el Espacio: El Secreto del Astronauta</title>
+  </programme>
+  <programme start="20210611031200 -0700" stop="20210611040000 -0700" channel="DISCOVERY SCIENCE">
+    <title lang="es">El forense es usted</title>
+  </programme>
+  <programme start="20210611040000 -0700" stop="20210611044800 -0700" channel="DISCOVERY SCIENCE">
+    <title lang="es">The Explosion Show</title>
+  </programme>
+  <programme start="20210611044800 -0700" stop="20210611051200 -0700" channel="DISCOVERY SCIENCE">
+    <title lang="es">Reto a la Ciencia</title>
+  </programme>
+  <programme start="20210611051200 -0700" stop="20210611053600 -0700" channel="DISCOVERY SCIENCE">
+    <title lang="es">Reto a la Ciencia</title>
+  </programme>
+  <programme start="20210611053600 -0700" stop="20210611062400 -0700" channel="DISCOVERY SCIENCE">
+    <title lang="es">La Idea Ganadora</title>
+  </programme>
+  <programme start="20210611062400 -0700" stop="20210611071200 -0700" channel="DISCOVERY SCIENCE">
+    <title lang="es">Savage Builds</title>
+  </programme>
+  <programme start="20210611071200 -0700" stop="20210611080000 -0700" channel="DISCOVERY SCIENCE">
+    <title lang="es">Tesoro en el Espacio: El Secreto del Astronauta</title>
+  </programme>
+  <programme start="20210611080000 -0700" stop="20210611084800 -0700" channel="DISCOVERY SCIENCE">
+    <title lang="es">Tesoro en el Espacio: El Secreto del Astronauta</title>
+  </programme>
+  <programme start="20210611084800 -0700" stop="20210611093600 -0700" channel="DISCOVERY SCIENCE">
+    <title lang="es">Tesoro en el Espacio: El Secreto del Astronauta</title>
+  </programme>
+  <programme start="20210611093600 -0700" stop="20210611102400 -0700" channel="DISCOVERY SCIENCE">
+    <title lang="es">The Explosion Show</title>
+  </programme>
+  <programme start="20210611102400 -0700" stop="20210611111200 -0700" channel="DISCOVERY SCIENCE">
+    <title lang="es">The Explosion Show</title>
+  </programme>
+  <programme start="20210611111200 -0700" stop="20210611120000 -0700" channel="DISCOVERY SCIENCE">
+    <title lang="es">The Explosion Show</title>
+  </programme>
+  <programme start="20210611120000 -0700" stop="20210611124800 -0700" channel="DISCOVERY SCIENCE">
+    <title lang="es">Biónicos</title>
+  </programme>
+  <programme start="20210611124800 -0700" stop="20210611133600 -0700" channel="DISCOVERY SCIENCE">
+    <title lang="es">El forense es usted</title>
+  </programme>
+  <programme start="20210611133600 -0700" stop="20210611142400 -0700" channel="DISCOVERY SCIENCE">
+    <title lang="es">Códigos y Conspiraciones</title>
+  </programme>
+  <programme start="20210611142400 -0700" stop="20210611151200 -0700" channel="DISCOVERY SCIENCE">
+    <title lang="es">Tesla: crimen desclasificado</title>
+  </programme>
+  <programme start="20210611151200 -0700" stop="20210611160000 -0700" channel="DISCOVERY SCIENCE">
+    <title lang="es">The Big Question</title>
+  </programme>
+  <programme start="20210611160000 -0700" stop="20210611164800 -0700" channel="DISCOVERY SCIENCE">
+    <title lang="es">Batalla de creadores</title>
+  </programme>
+  <programme start="20210611164800 -0700" stop="20210611171200 -0700" channel="DISCOVERY SCIENCE">
+    <title lang="es">Así se hace</title>
+  </programme>
+  <programme start="20210611171200 -0700" stop="20210611173600 -0700" channel="DISCOVERY SCIENCE">
+    <title lang="es">Así se hace</title>
+  </programme>
+  <programme start="20210611173600 -0700" stop="20210611182400 -0700" channel="DISCOVERY SCIENCE">
+    <title lang="es">Horror de cálculo</title>
+  </programme>
+  <programme start="20210611182400 -0700" stop="20210611191200 -0700" channel="DISCOVERY SCIENCE">
+    <title lang="es">Horror de cálculo</title>
+  </programme>
+  <programme start="20210611191200 -0700" stop="20210611200000 -0700" channel="DISCOVERY SCIENCE">
+    <title lang="es">Proyecto Greensburg</title>
+  </programme>
+  <programme start="20210611200000 -0700" stop="20210611204800 -0700" channel="DISCOVERY SCIENCE">
+    <title lang="es">Outrageous Acts of Science</title>
+  </programme>
+  <programme start="20210611204800 -0700" stop="20210611213600 -0700" channel="DISCOVERY SCIENCE">
+    <title lang="es">Outrageous Acts of Science</title>
+  </programme>
+  <programme start="20210611213600 -0700" stop="20210611220000 -0700" channel="DISCOVERY SCIENCE">
+    <title lang="es">Así se hace</title>
+  </programme>
+  <programme start="20210611220000 -0700" stop="20210611222400 -0700" channel="DISCOVERY SCIENCE">
+    <title lang="es">Así se hace</title>
+  </programme>
+  <programme start="20210611222400 -0700" stop="20210611231200 -0700" channel="DISCOVERY SCIENCE">
+    <title lang="es">Outrageous Acts of Science</title>
+  </programme>
+  <programme start="20210611231200 -0700" stop="20210612000000 -0700" channel="DISCOVERY SCIENCE">
+    <title lang="es">Secretos de la NASA</title>
+  </programme>
+  <programme start="20210611004800 -0700" stop="20210611013600 -0700" channel="DISCOVERY THEATER">
+    <title lang="es">Alaska remota</title>
+  </programme>
+  <programme start="20210611013600 -0700" stop="20210611022400 -0700" channel="DISCOVERY THEATER">
+    <title lang="es">Alaska remota</title>
+  </programme>
+  <programme start="20210611022400 -0700" stop="20210611031200 -0700" channel="DISCOVERY THEATER">
+    <title lang="es">Monstruos de Alaska</title>
+  </programme>
+  <programme start="20210611031200 -0700" stop="20210611040000 -0700" channel="DISCOVERY THEATER">
+    <title lang="es">Monstruos de Alaska</title>
+  </programme>
+  <programme start="20210611040000 -0700" stop="20210611044800 -0700" channel="DISCOVERY THEATER">
+    <title lang="es">Mineros del hielo</title>
+  </programme>
+  <programme start="20210611044800 -0700" stop="20210611053600 -0700" channel="DISCOVERY THEATER">
+    <title lang="es">Mineros del hielo</title>
+  </programme>
+  <programme start="20210611053600 -0700" stop="20210611062400 -0700" channel="DISCOVERY THEATER">
+    <title lang="es">Alaska remota</title>
+  </programme>
+  <programme start="20210611062400 -0700" stop="20210611071200 -0700" channel="DISCOVERY THEATER">
+    <title lang="es">Alaska remota</title>
+  </programme>
+  <programme start="20210611071200 -0700" stop="20210611080000 -0700" channel="DISCOVERY THEATER">
+    <title lang="es">Monstruos de Alaska</title>
+  </programme>
+  <programme start="20210611080000 -0700" stop="20210611084800 -0700" channel="DISCOVERY THEATER">
+    <title lang="es">Monstruos de Alaska</title>
+  </programme>
+  <programme start="20210611084800 -0700" stop="20210611093600 -0700" channel="DISCOVERY THEATER">
+    <title lang="es">Trufas de oro</title>
+  </programme>
+  <programme start="20210611093600 -0700" stop="20210611100000 -0700" channel="DISCOVERY THEATER">
+    <title lang="es">Construcciones en lago</title>
+  </programme>
+  <programme start="20210611100000 -0700" stop="20210611102400 -0700" channel="DISCOVERY THEATER">
+    <title lang="es">Construcciones en lago</title>
+  </programme>
+  <programme start="20210611102400 -0700" stop="20210611104800 -0700" channel="DISCOVERY THEATER">
+    <title lang="es">Sangre Apalache</title>
+  </programme>
+  <programme start="20210611104800 -0700" stop="20210611111200 -0700" channel="DISCOVERY THEATER">
+    <title lang="es">Sangre Apalache</title>
+  </programme>
+  <programme start="20210611111200 -0700" stop="20210611120000 -0700" channel="DISCOVERY THEATER">
+    <title lang="es">Oro blanco</title>
+  </programme>
+  <programme start="20210611120000 -0700" stop="20210611124800 -0700" channel="DISCOVERY THEATER">
+    <title lang="es">Mega Carga</title>
+  </programme>
+  <programme start="20210611124800 -0700" stop="20210611133600 -0700" channel="DISCOVERY THEATER">
+    <title lang="es">El ferrocarril de Alaska</title>
+  </programme>
+  <programme start="20210611133600 -0700" stop="20210611142400 -0700" channel="DISCOVERY THEATER">
+    <title lang="es">Chatarreros</title>
+  </programme>
+  <programme start="20210611142400 -0700" stop="20210611144800 -0700" channel="DISCOVERY THEATER">
+    <title lang="es">Tierra brasileña</title>
+  </programme>
+  <programme start="20210611144800 -0700" stop="20210611151200 -0700" channel="DISCOVERY THEATER">
+    <title lang="es">Tierra brasileña</title>
+  </programme>
+  <programme start="20210611151200 -0700" stop="20210611160000 -0700" channel="DISCOVERY THEATER">
+    <title lang="es">Tu basura, mi fortuna negocio redondo</title>
+  </programme>
+  <programme start="20210611160000 -0700" stop="20210611164800 -0700" channel="DISCOVERY THEATER">
+    <title lang="es">Mega Carga</title>
+  </programme>
+  <programme start="20210611164800 -0700" stop="20210611173600 -0700" channel="DISCOVERY THEATER">
+    <title lang="es">Iglesias secretos y leyendas</title>
+  </programme>
+  <programme start="20210611173600 -0700" stop="20210611182400 -0700" channel="DISCOVERY THEATER">
+    <title lang="es">Misterios del castillo</title>
+  </programme>
+  <programme start="20210611182400 -0700" stop="20210611191200 -0700" channel="DISCOVERY THEATER">
+    <title lang="es">La maldición del oro</title>
+  </programme>
+  <programme start="20210611191200 -0700" stop="20210611200000 -0700" channel="DISCOVERY THEATER">
+    <title lang="es">Misterios en el museo</title>
+  </programme>
+  <programme start="20210611200000 -0700" stop="20210611204800 -0700" channel="DISCOVERY THEATER">
+    <title lang="es">Misterios en el museo</title>
+  </programme>
+  <programme start="20210611204800 -0700" stop="20210611213600 -0700" channel="DISCOVERY THEATER">
+    <title lang="es">Bahía de Bristol</title>
+  </programme>
+  <programme start="20210611213600 -0700" stop="20210611222400 -0700" channel="DISCOVERY THEATER">
+    <title lang="es">Fieras de la Montaña</title>
+  </programme>
+  <programme start="20210611222400 -0700" stop="20210611231200 -0700" channel="DISCOVERY THEATER">
+    <title lang="es">Fieras de la Montaña</title>
+  </programme>
+  <programme start="20210611231200 -0700" stop="20210612000000 -0700" channel="DISCOVERY THEATER">
+    <title lang="es">Pesca mortal la carnada</title>
+  </programme>
+  <programme start="20210611001600 -0700" stop="20210611004100 -0700" channel="DISCOVERY TURBO">
+    <title lang="es">Las Mecánicas</title>
+  </programme>
+  <programme start="20210611004100 -0700" stop="20210611013100 -0700" channel="DISCOVERY TURBO">
+    <title lang="es">Máquinas renovadas</title>
+  </programme>
+  <programme start="20210611013100 -0700" stop="20210611022200 -0700" channel="DISCOVERY TURBO">
+    <title lang="es">Classic Car Studio</title>
+  </programme>
+  <programme start="20210611022200 -0700" stop="20210611031000 -0700" channel="DISCOVERY TURBO">
+    <title lang="es">Carreras prohibidas</title>
+  </programme>
+  <programme start="20210611031000 -0700" stop="20210611040000 -0700" channel="DISCOVERY TURBO">
+    <title lang="es">Classic Car Studio</title>
+  </programme>
+  <programme start="20210611040000 -0700" stop="20210611045100 -0700" channel="DISCOVERY TURBO">
+    <title lang="es">Al estilo Kindig</title>
+  </programme>
+  <programme start="20210611045100 -0700" stop="20210611054200 -0700" channel="DISCOVERY TURBO">
+    <title lang="es">Chatarra de Oro</title>
+  </programme>
+  <programme start="20210611054200 -0700" stop="20210611063300 -0700" channel="DISCOVERY TURBO">
+    <title lang="es">Joyas sobre ruedas</title>
+  </programme>
+  <programme start="20210611063300 -0700" stop="20210611072500 -0700" channel="DISCOVERY TURBO">
+    <title lang="es">Mexicánicos</title>
+  </programme>
+  <programme start="20210611072500 -0700" stop="20210611081700 -0700" channel="DISCOVERY TURBO">
+    <title lang="es">Mexicánicos</title>
+  </programme>
+  <programme start="20210611081700 -0700" stop="20210611090900 -0700" channel="DISCOVERY TURBO">
+    <title lang="es">Lo mejor de Mexicánicos</title>
+  </programme>
+  <programme start="20210611090900 -0700" stop="20210611100100 -0700" channel="DISCOVERY TURBO">
+    <title lang="es">Al estilo Kindig</title>
+  </programme>
+  <programme start="20210611100100 -0700" stop="20210611105300 -0700" channel="DISCOVERY TURBO">
+    <title lang="es">Chatarra de Oro</title>
+  </programme>
+  <programme start="20210611105300 -0700" stop="20210611114500 -0700" channel="DISCOVERY TURBO">
+    <title lang="es">Carreras prohibidas</title>
+  </programme>
+  <programme start="20210611114500 -0700" stop="20210611123900 -0700" channel="DISCOVERY TURBO">
+    <title lang="es">Autos renovados</title>
+  </programme>
+  <programme start="20210611123900 -0700" stop="20210611130500 -0700" channel="DISCOVERY TURBO">
+    <title lang="es">Así Se Hace: Supercarros</title>
+  </programme>
+  <programme start="20210611130500 -0700" stop="20210611133100 -0700" channel="DISCOVERY TURBO">
+    <title lang="es">Así Se Hace: Supercarros</title>
+  </programme>
+  <programme start="20210611133100 -0700" stop="20210611142300 -0700" channel="DISCOVERY TURBO">
+    <title lang="es">Chatarra de Oro</title>
+  </programme>
+  <programme start="20210611142300 -0700" stop="20210611144900 -0700" channel="DISCOVERY TURBO">
+    <title lang="es">Buscando autos clásicos</title>
+  </programme>
+  <programme start="20210611144900 -0700" stop="20210611151500 -0700" channel="DISCOVERY TURBO">
+    <title lang="es">Buscando autos clásicos</title>
+  </programme>
+  <programme start="20210611151500 -0700" stop="20210611160700 -0700" channel="DISCOVERY TURBO">
+    <title lang="es">Invasión de garajes</title>
+  </programme>
+  <programme start="20210611160700 -0700" stop="20210611163300 -0700" channel="DISCOVERY TURBO">
+    <title lang="es">Vida motorizada</title>
+  </programme>
+  <programme start="20210611163300 -0700" stop="20210611170000 -0700" channel="DISCOVERY TURBO">
+    <title lang="es">Vida motorizada</title>
+  </programme>
+  <programme start="20210611170000 -0700" stop="20210611175200 -0700" channel="DISCOVERY TURBO">
+    <title lang="es">Lo mejor de Mexicánicos</title>
+  </programme>
+  <programme start="20210611175200 -0700" stop="20210611184400 -0700" channel="DISCOVERY TURBO">
+    <title lang="es">Al estilo Kindig</title>
+  </programme>
+  <programme start="20210611184400 -0700" stop="20210611193800 -0700" channel="DISCOVERY TURBO">
+    <title lang="es">Chatarra de Oro</title>
+  </programme>
+  <programme start="20210611193800 -0700" stop="20210611203000 -0700" channel="DISCOVERY TURBO">
+    <title lang="es">Joyas sobre ruedas</title>
+  </programme>
+  <programme start="20210611203000 -0700" stop="20210611212400 -0700" channel="DISCOVERY TURBO">
+    <title lang="es">FantomWorks</title>
+  </programme>
+  <programme start="20210611212400 -0700" stop="20210611221800 -0700" channel="DISCOVERY TURBO">
+    <title lang="es">El dúo mecánico</title>
+  </programme>
+  <programme start="20210611221800 -0700" stop="20210611230800 -0700" channel="DISCOVERY TURBO">
+    <title lang="es">El dúo mecánico</title>
+  </programme>
+  <programme start="20210611230800 -0700" stop="20210611235800 -0700" channel="DISCOVERY TURBO">
+    <title lang="es">Carreras prohibidas</title>
+  </programme>
+  <programme start="20210611235800 -0700" stop="20210612002800 -0700" channel="DISCOVERY TURBO">
+    <title lang="es">Las Mecánicas</title>
+  </programme>
+  <programme start="20210611010200 -0700" stop="20210611025100 -0700" channel="GOLDEN">
+    <title lang="es">Salvando al soldado pérez</title>
+  </programme>
+  <programme start="20210611025100 -0700" stop="20210611043400 -0700" channel="GOLDEN">
+    <title lang="es">Chicuarotes</title>
+  </programme>
+  <programme start="20210611043400 -0700" stop="20210611061000 -0700" channel="GOLDEN">
+    <title lang="es">¿Que le dijiste a Dios</title>
+  </programme>
+  <programme start="20210611061000 -0700" stop="20210611080300 -0700" channel="GOLDEN">
+    <title lang="es">Dulce Familia</title>
+  </programme>
+  <programme start="20210611080300 -0700" stop="20210611095100 -0700" channel="GOLDEN">
+    <title lang="es">Triunfos Robados</title>
+  </programme>
+  <programme start="20210611095100 -0700" stop="20210611111900 -0700" channel="GOLDEN">
+    <title lang="es">El Animal</title>
+  </programme>
+  <programme start="20210611111900 -0700" stop="20210611130700 -0700" channel="GOLDEN">
+    <title lang="es">Si tuviera 30</title>
+  </programme>
+  <programme start="20210611130700 -0700" stop="20210611151700 -0700" channel="GOLDEN">
+    <title lang="es">Hellboy</title>
+  </programme>
+  <programme start="20210611151700 -0700" stop="20210611171900 -0700" channel="GOLDEN">
+    <title lang="es">Del crepúsculo al amanecer</title>
+  </programme>
+  <programme start="20210611171900 -0700" stop="20210611193000 -0700" channel="GOLDEN">
+    <title lang="es">El exorcista El comienzo</title>
+  </programme>
+  <programme start="20210611193000 -0700" stop="20210611203600 -0700" channel="GOLDEN">
+    <title lang="es">Capadocia 2 ? episodio # 01 l</title>
+  </programme>
+  <programme start="20210611203600 -0700" stop="20210611214200 -0700" channel="GOLDEN">
+    <title lang="es">Capadocia 2 ? episodio # 01 l</title>
+  </programme>
+  <programme start="20210611214200 -0700" stop="20210611232600 -0700" channel="GOLDEN">
+    <title lang="es">American pie tu primera vez</title>
+  </programme>
+  <programme start="20210611232600 -0700" stop="20210612005800 -0700" channel="GOLDEN">
+    <title lang="es">The Babysister</title>
+  </programme>
+  <programme start="20210611000100 -0700" stop="20210611013300 -0700" channel="GOLDEN EDGE">
+    <title lang="es">Ya Veremos</title>
+  </programme>
+  <programme start="20210611013300 -0700" stop="20210611030500 -0700" channel="GOLDEN EDGE">
+    <title lang="es">Tramposos con Suerte</title>
+  </programme>
+  <programme start="20210611030500 -0700" stop="20210611045600 -0700" channel="GOLDEN EDGE">
+    <title lang="es">Al borde del abismo</title>
+  </programme>
+  <programme start="20210611045600 -0700" stop="20210611064300 -0700" channel="GOLDEN EDGE">
+    <title lang="es">Zapatero a tus zapatos</title>
+  </programme>
+  <programme start="20210611064300 -0700" stop="20210611083900 -0700" channel="GOLDEN EDGE">
+    <title lang="es">Eres mi pasión</title>
+  </programme>
+  <programme start="20210611083900 -0700" stop="20210611102700 -0700" channel="GOLDEN EDGE">
+    <title lang="es">Cómo Cortar a tu Patán</title>
+  </programme>
+  <programme start="20210611102700 -0700" stop="20210611121000 -0700" channel="GOLDEN EDGE">
+    <title lang="es">Amor de Mis Amores</title>
+  </programme>
+  <programme start="20210611121000 -0700" stop="20210611142000 -0700" channel="GOLDEN EDGE">
+    <title lang="es">La vuelta al mundo en 80 días</title>
+  </programme>
+  <programme start="20210611142000 -0700" stop="20210611160700 -0700" channel="GOLDEN EDGE">
+    <title lang="es">Matando Cabos</title>
+  </programme>
+  <programme start="20210611160700 -0700" stop="20210611182100 -0700" channel="GOLDEN EDGE">
+    <title lang="es">Dragón La vida de Bruce Lee</title>
+  </programme>
+  <programme start="20210611182100 -0700" stop="20210611200000 -0700" channel="GOLDEN EDGE">
+    <title lang="es">Anaconda</title>
+  </programme>
+  <programme start="20210611200000 -0700" stop="20210611213300 -0700" channel="GOLDEN EDGE">
+    <title lang="es">Rambo: Regreso al Infierno</title>
+  </programme>
+  <programme start="20210611213300 -0700" stop="20210611232200 -0700" channel="GOLDEN EDGE">
+    <title lang="es">Enemigo invisible</title>
+  </programme>
+  <programme start="20210611232200 -0700" stop="20210612010900 -0700" channel="GOLDEN EDGE">
+    <title lang="es">Zapatero a tus zapatos</title>
+  </programme>
+  <programme start="20210611013500 -0700" stop="20210611031500 -0700" channel="HBO">
+    <title lang="es">El Coyote</title>
+  </programme>
+  <programme start="20210611031500 -0700" stop="20210611040000 -0700" channel="HBO">
+    <title lang="es">El último crucero</title>
+  </programme>
+  <programme start="20210611040000 -0700" stop="20210611062000 -0700" channel="HBO">
+    <title lang="es">Queen y Slim Los fugitivos</title>
+  </programme>
+  <programme start="20210611062000 -0700" stop="20210611081000 -0700" channel="HBO">
+    <title lang="es">Si te casas... te mato</title>
+  </programme>
+  <programme start="20210611081000 -0700" stop="20210611100500 -0700" channel="HBO">
+    <title lang="es">Historias de Miedo Para Contar en la Oscuridad</title>
+  </programme>
+  <programme start="20210611100500 -0700" stop="20210611123000 -0700" channel="HBO">
+    <title lang="es">El Gran Gatsby</title>
+  </programme>
+  <programme start="20210611123000 -0700" stop="20210611142000 -0700" channel="HBO">
+    <title lang="es">Las Brujas (2020)</title>
+  </programme>
+  <programme start="20210611142000 -0700" stop="20210611163500 -0700" channel="HBO">
+    <title lang="es">Spider-Man: Lejos de Casa</title>
+  </programme>
+  <programme start="20210611163500 -0700" stop="20210611180500 -0700" channel="HBO">
+    <title lang="es">La Vida Secreta de tus Mascotas 2</title>
+  </programme>
+  <programme start="20210611180500 -0700" stop="20210611200000 -0700" channel="HBO">
+    <title lang="es">Nosotros Los Nobles</title>
+  </programme>
+  <programme start="20210611200000 -0700" stop="20210611215500 -0700" channel="HBO">
+    <title lang="es">Historias de Miedo Para Contar en la Oscuridad</title>
+  </programme>
+  <programme start="20210611215500 -0700" stop="20210611234500 -0700" channel="HBO">
+    <title lang="es">Las Brujas (2020)</title>
+  </programme>
+  <programme start="20210611234500 -0700" stop="20210612020000 -0700" channel="HBO">
+    <title lang="es">Spider-Man: Lejos de Casa</title>
+  </programme>
+  <programme start="20210611021500 -0700" stop="20210611040000 -0700" channel="HBO 2">
+    <title lang="es">Furia de Titanes 2</title>
+  </programme>
+  <programme start="20210611040000 -0700" stop="20210611060500 -0700" channel="HBO 2">
+    <title lang="es">Nunca Más</title>
+  </programme>
+  <programme start="20210611060500 -0700" stop="20210611074500 -0700" channel="HBO 2">
+    <title lang="es">Jóvenes Brujas 2</title>
+  </programme>
+  <programme start="20210611074500 -0700" stop="20210611093000 -0700" channel="HBO 2">
+    <title lang="es">Cuando apareciste tú</title>
+  </programme>
+  <programme start="20210611093000 -0700" stop="20210611100000 -0700" channel="HBO 2">
+    <title lang="es">En terapia</title>
+  </programme>
+  <programme start="20210611100000 -0700" stop="20210611103000 -0700" channel="HBO 2">
+    <title lang="es">En terapia</title>
+  </programme>
+  <programme start="20210611103000 -0700" stop="20210611133000 -0700" channel="HBO 2">
+    <title lang="es">El señor de los anillos</title>
+  </programme>
+  <programme start="20210611133000 -0700" stop="20210611163500 -0700" channel="HBO 2">
+    <title lang="es">El señor de los anillos 2</title>
+  </programme>
+  <programme start="20210611163500 -0700" stop="20210611200000 -0700" channel="HBO 2">
+    <title lang="es">El Señor de los Anillos: El Retorno del Rey</title>
+  </programme>
+  <programme start="20210611200000 -0700" stop="20210611214000 -0700" channel="HBO 2">
+    <title lang="es">Jóvenes Brujas 2</title>
+  </programme>
+  <programme start="20210611214000 -0700" stop="20210611232500 -0700" channel="HBO 2">
+    <title lang="es">Las Reinas del Crimen</title>
+  </programme>
+  <programme start="20210611232500 -0700" stop="20210611235500 -0700" channel="HBO 2">
+    <title lang="es">En terapia</title>
+  </programme>
+  <programme start="20210611235500 -0700" stop="20210612002500 -0700" channel="HBO 2">
+    <title lang="es">En terapia</title>
+  </programme>
+  <programme start="20210611010500 -0700" stop="20210611030500 -0700" channel="HBO PLUS">
+    <title lang="es">Primicia mortal</title>
+  </programme>
+  <programme start="20210611030500 -0700" stop="20210611040000 -0700" channel="HBO PLUS">
+    <title lang="es">Will Ferrell entra al campo</title>
+  </programme>
+  <programme start="20210611040000 -0700" stop="20210611053500 -0700" channel="HBO PLUS">
+    <title lang="es">Sin Escape</title>
+  </programme>
+  <programme start="20210611053500 -0700" stop="20210611073000 -0700" channel="HBO PLUS">
+    <title lang="es">Ajuste de cuentas</title>
+  </programme>
+  <programme start="20210611073000 -0700" stop="20210611092000 -0700" channel="HBO PLUS">
+    <title lang="es">Focus maestros de la estafa</title>
+  </programme>
+  <programme start="20210611092000 -0700" stop="20210611112000 -0700" channel="HBO PLUS">
+    <title lang="es">El Juego de Ender</title>
+  </programme>
+  <programme start="20210611112000 -0700" stop="20210611130500 -0700" channel="HBO PLUS">
+    <title lang="es">Zombieland: Tiro de Gracia</title>
+  </programme>
+  <programme start="20210611130500 -0700" stop="20210611134000 -0700" channel="HBO PLUS">
+    <title lang="es">Last Week Tonight With John Oliver</title>
+  </programme>
+  <programme start="20210611134000 -0700" stop="20210611155000 -0700" channel="HBO PLUS">
+    <title lang="es">El 6to. Día</title>
+  </programme>
+  <programme start="20210611155000 -0700" stop="20210611175500 -0700" channel="HBO PLUS">
+    <title lang="es">Trascender</title>
+  </programme>
+  <programme start="20210611175500 -0700" stop="20210611200000 -0700" channel="HBO PLUS">
+    <title lang="es">Invasión del Mundo: Batalla - Los Ángeles</title>
+  </programme>
+  <programme start="20210611200000 -0700" stop="20210611214500 -0700" channel="HBO PLUS">
+    <title lang="es">Zombieland: Tiro de Gracia</title>
+  </programme>
+  <programme start="20210611214500 -0700" stop="20210611232000 -0700" channel="HBO PLUS">
+    <title lang="es">Tú Eres el Próximo</title>
+  </programme>
+  <programme start="20210611232000 -0700" stop="20210612005500 -0700" channel="HBO PLUS">
+    <title lang="es">La liga de la justicia oscura Guerra Apokolips</title>
+  </programme>
+  <programme start="20210611010000 -0700" stop="20210611020000 -0700" channel="MTV">
+    <title lang="es">Insomnio MTV</title>
+  </programme>
+  <programme start="20210611020000 -0700" stop="20210611030000 -0700" channel="MTV">
+    <title lang="es">Insomnio MTV</title>
+  </programme>
+  <programme start="20210611030000 -0700" stop="20210611040000 -0700" channel="MTV">
+    <title lang="es">Arriba MTV</title>
+  </programme>
+  <programme start="20210611040000 -0700" stop="20210611050000 -0700" channel="MTV">
+    <title lang="es">Arriba MTV</title>
+  </programme>
+  <programme start="20210611050000 -0700" stop="20210611055300 -0700" channel="MTV">
+    <title lang="es">Playlist Perreo hasta el piso</title>
+  </programme>
+  <programme start="20210611055300 -0700" stop="20210611063900 -0700" channel="MTV">
+    <title lang="es">Just Tattoo of Us</title>
+  </programme>
+  <programme start="20210611063900 -0700" stop="20210611072500 -0700" channel="MTV">
+    <title lang="es">Teen Mom 2</title>
+  </programme>
+  <programme start="20210611072500 -0700" stop="20210611081100 -0700" channel="MTV">
+    <title lang="es">Are You the One</title>
+  </programme>
+  <programme start="20210611081100 -0700" stop="20210611100200 -0700" channel="MTV">
+    <title lang="es">Tortugas Ninja</title>
+  </programme>
+  <programme start="20210611100200 -0700" stop="20210611105400 -0700" channel="MTV">
+    <title lang="es">Super Shore</title>
+  </programme>
+  <programme start="20210611105400 -0700" stop="20210611114500 -0700" channel="MTV">
+    <title lang="es">Super Shore</title>
+  </programme>
+  <programme start="20210611114500 -0700" stop="20210611124000 -0700" channel="MTV">
+    <title lang="es">Super Shore</title>
+  </programme>
+  <programme start="20210611124000 -0700" stop="20210611133500 -0700" channel="MTV">
+    <title lang="es">Acapulco Shore</title>
+  </programme>
+  <programme start="20210611133500 -0700" stop="20210611143000 -0700" channel="MTV">
+    <title lang="es">Acapulco Shock</title>
+  </programme>
+  <programme start="20210611143000 -0700" stop="20210611151500 -0700" channel="MTV">
+    <title lang="es">Dating Naked</title>
+  </programme>
+  <programme start="20210611151500 -0700" stop="20210611160700 -0700" channel="MTV">
+    <title lang="es">Dating Naked</title>
+  </programme>
+  <programme start="20210611160700 -0700" stop="20210611170000 -0700" channel="MTV">
+    <title lang="es">Acapulco Shore</title>
+  </programme>
+  <programme start="20210611170000 -0700" stop="20210611180100 -0700" channel="MTV">
+    <title lang="es">Acapulco Shore</title>
+  </programme>
+  <programme start="20210611180100 -0700" stop="20210611190500 -0700" channel="MTV">
+    <title lang="es">Acapulco Shore</title>
+  </programme>
+  <programme start="20210611190500 -0700" stop="20210611201400 -0700" channel="MTV">
+    <title lang="es">Acapulco Shore</title>
+  </programme>
+  <programme start="20210611201400 -0700" stop="20210611210000 -0700" channel="MTV">
+    <title lang="es">Latin Flow</title>
+  </programme>
+  <programme start="20210611210000 -0700" stop="20210611212500 -0700" channel="MTV">
+    <title lang="es">My Life on MTV</title>
+  </programme>
+  <programme start="20210611212500 -0700" stop="20210611231600 -0700" channel="MTV">
+    <title lang="es">Tortugas Ninja</title>
+  </programme>
+  <programme start="20210611231600 -0700" stop="20210612001100 -0700" channel="MTV">
+    <title lang="es">World Stage</title>
+  </programme>
+  <programme start="20210611000900 -0700" stop="20210611013600 -0700" channel="SPACE">
+    <title lang="es">Ouija</title>
+  </programme>
+  <programme start="20210611013600 -0700" stop="20210611032100 -0700" channel="SPACE">
+    <title lang="es">Así en la tierra y el infierno</title>
+  </programme>
+  <programme start="20210611032100 -0700" stop="20210611040000 -0700" channel="SPACE">
+    <title lang="es">Hollywood one on one</title>
+  </programme>
+  <programme start="20210611040000 -0700" stop="20210611062600 -0700" channel="SPACE">
+    <title lang="es">Anaconda 2</title>
+  </programme>
+  <programme start="20210611062600 -0700" stop="20210611081500 -0700" channel="SPACE">
+    <title lang="es">Shock wave Onda expansiva</title>
+  </programme>
+  <programme start="20210611081500 -0700" stop="20210611101900 -0700" channel="SPACE">
+    <title lang="es">S.W.A.T. Unidad Especial</title>
+  </programme>
+  <programme start="20210611101900 -0700" stop="20210611122900 -0700" channel="SPACE">
+    <title lang="es">Cirque du freak</title>
+  </programme>
+  <programme start="20210611122900 -0700" stop="20210611140500 -0700" channel="SPACE">
+    <title lang="es">Primer Golpe</title>
+  </programme>
+  <programme start="20210611140500 -0700" stop="20210611154700 -0700" channel="SPACE">
+    <title lang="es">Masacre en Nueva York</title>
+  </programme>
+  <programme start="20210611154700 -0700" stop="20210611181500 -0700" channel="SPACE">
+    <title lang="es">Rápidos y Furiosos 7</title>
+  </programme>
+  <programme start="20210611181500 -0700" stop="20210611195500 -0700" channel="SPACE">
+    <title lang="es">American ninja warrior</title>
+  </programme>
+  <programme start="20210611195500 -0700" stop="20210611214500 -0700" channel="SPACE">
+    <title lang="es">Infección</title>
+  </programme>
+  <programme start="20210611214500 -0700" stop="20210611220000 -0700" channel="SPACE">
+    <title lang="es">Bastidores Space</title>
+  </programme>
+  <programme start="20210611220000 -0700" stop="20210611233800 -0700" channel="SPACE">
+    <title lang="es">Así en la tierra y el infierno</title>
+  </programme>
+  <programme start="20210611233800 -0700" stop="20210612011300 -0700" channel="SPACE">
+    <title lang="es">Pesadilla la calle del inf. 4</title>
+  </programme>
+  <programme start="20210611002100 -0700" stop="20210611015900 -0700" channel="TLC">
+    <title lang="es">Todo en 90 días Antes.</title>
+  </programme>
+  <programme start="20210611015900 -0700" stop="20210611024700 -0700" channel="TLC">
+    <title lang="es">El amor después de prisió</title>
+  </programme>
+  <programme start="20210611024700 -0700" stop="20210611033500 -0700" channel="TLC">
+    <title lang="es">El amor después de prisió</title>
+  </programme>
+  <programme start="20210611033500 -0700" stop="20210611040000 -0700" channel="TLC">
+    <title lang="es">Tacaños extremos</title>
+  </programme>
+  <programme start="20210611040000 -0700" stop="20210611042600 -0700" channel="TLC">
+    <title lang="es">Cuponmanía</title>
+  </programme>
+  <programme start="20210611042600 -0700" stop="20210611051800 -0700" channel="TLC">
+    <title lang="es">Mi gran boda gitana</title>
+  </programme>
+  <programme start="20210611051800 -0700" stop="20210611070200 -0700" channel="TLC">
+    <title lang="es">Todo en 90 días</title>
+  </programme>
+  <programme start="20210611070200 -0700" stop="20210611075400 -0700" channel="TLC">
+    <title lang="es">La Familia Plath</title>
+  </programme>
+  <programme start="20210611075400 -0700" stop="20210611084600 -0700" channel="TLC">
+    <title lang="es">Una Gran Familia</title>
+  </programme>
+  <programme start="20210611084600 -0700" stop="20210611093800 -0700" channel="TLC">
+    <title lang="es">El Mundo de Bill y Jen</title>
+  </programme>
+  <programme start="20210611093800 -0700" stop="20210611103000 -0700" channel="TLC">
+    <title lang="es">El Mundo de Bill y Jen</title>
+  </programme>
+  <programme start="20210611103000 -0700" stop="20210611105600 -0700" channel="TLC">
+    <title lang="es">La médium</title>
+  </programme>
+  <programme start="20210611105600 -0700" stop="20210611124000 -0700" channel="TLC">
+    <title lang="es">Todo en 90 días</title>
+  </programme>
+  <programme start="20210611124000 -0700" stop="20210611133000 -0700" channel="TLC">
+    <title lang="es">Matrimonio busca esposa</title>
+  </programme>
+  <programme start="20210611133000 -0700" stop="20210611142000 -0700" channel="TLC">
+    <title lang="es">Matrimonio busca esposa</title>
+  </programme>
+  <programme start="20210611142000 -0700" stop="20210611151000 -0700" channel="TLC">
+    <title lang="es">Regreso al mundo Amish</title>
+  </programme>
+  <programme start="20210611151000 -0700" stop="20210611165200 -0700" channel="TLC">
+    <title lang="es">Mi gran boda gitana</title>
+  </programme>
+  <programme start="20210611165200 -0700" stop="20210611183200 -0700" channel="TLC">
+    <title lang="es">Todo en 90 días</title>
+  </programme>
+  <programme start="20210611183200 -0700" stop="20210611192200 -0700" channel="TLC">
+    <title lang="es">La Familia Plath</title>
+  </programme>
+  <programme start="20210611192200 -0700" stop="20210611201200 -0700" channel="TLC">
+    <title lang="es">Una Gran Familia</title>
+  </programme>
+  <programme start="20210611201200 -0700" stop="20210611210200 -0700" channel="TLC">
+    <title lang="es">El Mundo de Bill y Jen</title>
+  </programme>
+  <programme start="20210611210200 -0700" stop="20210611215200 -0700" channel="TLC">
+    <title lang="es">El Mundo de Bill y Jen</title>
+  </programme>
+  <programme start="20210611215200 -0700" stop="20210611224200 -0700" channel="TLC">
+    <title lang="es">La médium</title>
+  </programme>
+  <programme start="20210611224200 -0700" stop="20210611233200 -0700" channel="TLC">
+    <title lang="es">La médium</title>
+  </programme>
+  <programme start="20210611233200 -0700" stop="20210612002100 -0700" channel="TLC">
+    <title lang="es">Cuestión de altura</title>
+  </programme>
+  <programme start="20210611015000 -0700" stop="20210611033100 -0700" channel="TNT">
+    <title lang="es">Feedback</title>
+  </programme>
+  <programme start="20210611033100 -0700" stop="20210611051700 -0700" channel="TNT">
+    <title lang="es">Hollywood one on one</title>
+  </programme>
+  <programme start="20210611051700 -0700" stop="20210611073400 -0700" channel="TNT">
+    <title lang="es">El chacal</title>
+  </programme>
+  <programme start="20210611073400 -0700" stop="20210611093600 -0700" channel="TNT">
+    <title lang="es">Espejito, espejito</title>
+  </programme>
+  <programme start="20210611093600 -0700" stop="20210611113900 -0700" channel="TNT">
+    <title lang="es">Experta en Crisis</title>
+  </programme>
+  <programme start="20210611113900 -0700" stop="20210611133400 -0700" channel="TNT">
+    <title lang="es">Tango y Cash</title>
+  </programme>
+  <programme start="20210611133400 -0700" stop="20210611154900 -0700" channel="TNT">
+    <title lang="es">xXx</title>
+  </programme>
+  <programme start="20210611154900 -0700" stop="20210611172700 -0700" channel="TNT">
+    <title lang="es">Todo un parto</title>
+  </programme>
+  <programme start="20210611172700 -0700" stop="20210611200000 -0700" channel="TNT">
+    <title lang="es">El Sorprendente Hombre Araña 2</title>
+  </programme>
+  <programme start="20210611200000 -0700" stop="20210611222400 -0700" channel="TNT">
+    <title lang="es">Titanes del Pacífico</title>
+  </programme>
+  <programme start="20210611222400 -0700" stop="20210612002900 -0700" channel="TNT">
+    <title lang="es">Annabelle 2: La Creación</title>
+  </programme>
+</tv>
